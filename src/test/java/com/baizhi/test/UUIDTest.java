@@ -13,7 +13,7 @@ public class UUIDTest {
 
     @Test
     public void test1(){
-        System.out.println("修改！");
+        System.out.println("修改！d30c6997a5f51e9612927939fda89bb8bbb34251");
     }
 
 
