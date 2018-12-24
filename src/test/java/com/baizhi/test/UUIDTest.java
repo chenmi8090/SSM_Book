@@ -11,4 +11,10 @@ public class UUIDTest {
         System.out.println(UUID.randomUUID().toString());
     }
 
+    @Test
+    public void test1(){
+        System.out.println("修改！");
+    }
+
+
 }
