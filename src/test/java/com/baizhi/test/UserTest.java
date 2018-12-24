@@ -26,4 +26,9 @@ public class UserTest {
         System.out.println("登陆");
     }
 
+    @Test
+    public void userLoginTes2t(){
+        System.out.println("登陆");
+    }
+
 }
